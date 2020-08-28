@@ -1,0 +1,59 @@
+
+
+.wall {
+
+    background-image:url(../Testing/images/hi.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    
+    
+    
+}
+
+
+
+.bigfoot {
+
+
+    position: relative;
+}
+
+.footer {
+
+    text-align: center;
+    position:fixed;
+    width: 100%;
+    position: absolute;
+    padding-top: 600px;
+    
+
+    
+
+
+}
+
+
+
+
+.copyright {
+
+    padding-bottom: 20px;
+
+
+
+
+}
+
+.link {
+
+
+    text-decoration: none;
+    color: aqua;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px 20px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+   
+}
